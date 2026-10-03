@@ -1,6 +1,6 @@
 # Future-global-urban-expansion-and-climate-change-increase-flood-exposure-in-low-resilience-cities
 
-Data availability. All the data created in this study are openly available and the supplementary data can be downloaded from OneDrive (https://1drv.ms/u/c/e3ea9f00428b094d/IQA1pECf1rTGQqaG_3w63Tz2AQllsf253IPYXTChLh-WMH4?e=L3NAl6) or 师大云盘(https://pan.bnu.edu.cn/l/L1NGSn). Other data are available from the corresponding author upon reasonable request.
+Data availability. All the data created in this study are openly available and the supplementary data can be downloaded from OneDrive (https://1drv.ms/u/c/e3ea9f00428b094d/IQCtnTZbLkquRJMe74LuJ64yAUDak7Q_En-KGQF0iHDk23w?e=HaHyn2) or 师大云盘(https://pan.bnu.edu.cn/l/A1Wp7z). Other data are available from the corresponding author upon reasonable request.
 
 # List of supplementary data
 
@@ -14,102 +14,102 @@ Data availability. All the data created in this study are openly available and t
 
 - Global city and urban-agglomeration boundary shapefile for cities with populations greater than 1 million (`Global_cities_over1m_shp`).
 
-- Urban population distribution in 2050 under baseline floodplain avoidance (F0), for SSP2 & RCP4.5 and SSP5 & RCP8.5 (`Counterfactual_Pop_tif`; `Baseline_floodplain_avoidance_*.tif`; 2 `.tif` files).
+- Urban population distribution in 2050 under baseline floodplain avoidance, for SSP2 & RCP4.5 and SSP5 & RCP8.5 (`Counterfactual_Pop_tif`; `Baseline_floodplain_avoidance_*.tif`; 2 `.tif` files).
 
-- Urban population distribution in 2050 under baseline and future floodplain avoidance (ROBUST), for SSP2 & RCP4.5 and SSP5 & RCP8.5 and nine flood-model scenarios (`Counterfactual_Pop_tif`; `Baseline_and_future_floodplain_avoidance_*.tif`; 18 `.tif` files).
+- Urban population distribution in 2050 under baseline and future floodplain avoidance, for SSP2 & RCP4.5 and SSP5 & RCP8.5 and nine flood-model scenarios (`Counterfactual_Pop_tif`; `Baseline_and_future_floodplain_avoidance_*.tif`; 18 `.tif` files).
 
 ## Tables
 
-- **Supplementary Data 1.** Flood exposure in 2020 at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD1_Exposure_2020_Natl`)
+- **SD1.** Flood exposure in 2020 at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD1`)
 
-- **Supplementary Data 2.** Flood exposure in 2050 at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD2_Exposure_2050_Natl`)
+- **SD2.** Flood exposure in 2050 at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD2`)
 
-- **Supplementary Data 3.** Flood exposure in 2020 at the city scale (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD3_Exposure_2020_City`)
+- **SD3.** Flood exposure in 2020 at the city scale (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD3`)
 
-- **Supplementary Data 4.** Flood exposure in 2050 at the city scale (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD4_Exposure_2050_City`)
+- **SD4.** Flood exposure in 2050 at the city scale (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD4`)
 
-- **Supplementary Data 5.** Changes in flood exposure at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD5_Exposure_Change_Natl`)
+- **SD5.** Changes in flood exposure at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD5`)
 
-- **Supplementary Data 6.** Changes in flood exposure at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD6_Exposure_Change_City`)
+- **SD6.** Changes in flood exposure at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD6`)
 
-- **Supplementary Data 7.** Population growth contribution to changes in flood exposure at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD7_G_Contribution_Natl`)
+- **SD7.** Population growth contribution to changes in flood exposure at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD7`)
 
-- **Supplementary Data 8.** Spatial patterns of urban expansion contribution to changes in flood exposure at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD8_S_Contribution_Natl`)
+- **SD8.** Spatial patterns of urban expansion contribution to changes in flood exposure at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD8`)
 
-- **Supplementary Data 9.** Climate-driven floodplain change contribution to changes in flood exposure at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD9_C_Contribution_Natl`)
+- **SD9.** Climate-driven floodplain change contribution to changes in flood exposure at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD9`)
 
-- **Supplementary Data 10.** Growth–climate interaction contribution to changes in flood exposure at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD10_GxC_Contribution_Natl`)
+- **SD10.** Growth–climate interaction contribution to changes in flood exposure at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD10`)
 
-- **Supplementary Data 11.** Spatial patterns–climate interaction contribution to changes in flood exposure at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD11_SxC_Contribution_Natl`)
+- **SD11.** Spatial patterns–climate interaction contribution to changes in flood exposure at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD11`)
 
-- **Supplementary Data 12.** Population growth contribution to changes in flood exposure at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD12_G_Contribution_City`)
+- **SD12.** Population growth contribution to changes in flood exposure at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD12`)
 
-- **Supplementary Data 13.** Spatial patterns of urban expansion contribution to changes in flood exposure at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD13_S_Contribution_City`)
+- **SD13.** Spatial patterns of urban expansion contribution to changes in flood exposure at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD13`)
 
-- **Supplementary Data 14.** Climate-driven floodplain change contribution to changes in flood exposure at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD14_C_Contribution_City`)
+- **SD14.** Climate-driven floodplain change contribution to changes in flood exposure at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD14`)
 
-- **Supplementary Data 15.** Growth–climate interaction contribution to changes in flood exposure at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD15_GxC_Contribution_City`)
+- **SD15.** Growth–climate interaction contribution to changes in flood exposure at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD15`)
 
-- **Supplementary Data 16.** Spatial patterns–climate interaction contribution to changes in flood exposure at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD16_SxC_Contribution_City`)
+- **SD16.** Spatial patterns–climate interaction contribution to changes in flood exposure at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD16`)
 
-- **Supplementary Data 17.** Population growth contribution share at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD17_G_Share_Natl`)
+- **SD17.** Population growth contribution share at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD17`)
 
-- **Supplementary Data 18.** Spatial patterns of urban expansion contribution share at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD18_S_Share_Natl`)
+- **SD18.** Spatial patterns of urban expansion contribution share at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD18`)
 
-- **Supplementary Data 19.** Climate-driven floodplain change contribution share at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD19_C_Share_Natl`)
+- **SD19.** Climate-driven floodplain change contribution share at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD19`)
 
-- **Supplementary Data 20.** Growth–climate interaction contribution share at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD20_GxC_Share_Natl`)
+- **SD20.** Growth–climate interaction contribution share at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD20`)
 
-- **Supplementary Data 21.** Spatial patterns–climate interaction contribution share at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD21_SxC_Share_Natl`)
+- **SD21.** Spatial patterns–climate interaction contribution share at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD21`)
 
-- **Supplementary Data 22.** Population growth contribution share at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD22_G_Share_City`)
+- **SD22.** Population growth contribution share at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD22`)
 
-- **Supplementary Data 23.** Spatial patterns of urban expansion contribution share at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD23_S_Share_City`)
+- **SD23.** Spatial patterns of urban expansion contribution share at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD23`)
 
-- **Supplementary Data 24.** Climate-driven floodplain change contribution share at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD24_C_Share_City`)
+- **SD24.** Climate-driven floodplain change contribution share at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD24`)
 
-- **Supplementary Data 25.** Growth–climate interaction contribution share at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD25_GxC_Share_City`)
+- **SD25.** Growth–climate interaction contribution share at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD25`)
 
-- **Supplementary Data 26.** Spatial patterns–climate interaction contribution share at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD26_SxC_Share_City`)
+- **SD26.** Spatial patterns–climate interaction contribution share at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD26`)
 
-- **Supplementary Data 27.** Difference between the future flood-exposure share of positive population growth and the historical flood-exposure share (percentage points), at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD27_Exposure_Share_Diff_Natl`)
+- **SD27.** Difference in flood-exposed population share (urban expansion areas − existing built-up areas; percentage points), at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD27`)
 
-- **Supplementary Data 28.** Difference between the future flood-exposure share of positive population growth and the historical flood-exposure share (percentage points), at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD28_Exposure_Share_Diff_City`)
+- **SD28.** Difference in flood-exposed population share (urban expansion areas − existing built-up areas; percentage points), at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD28`)
 
-- **Supplementary Data 29.** Avoided flood-exposed population under baseline floodplain avoidance, at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD29_F0_Avoided_Natl`)
+- **SD29.** Reduction in flood-exposed population relative to BAU under baseline floodplain avoidance, at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD29`)
 
-- **Supplementary Data 30.** Avoided flood-exposed population under baseline floodplain avoidance, at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD30_F0_Avoided_City`)
+- **SD30.** Reduction in flood-exposed population relative to BAU under baseline floodplain avoidance, at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD30`)
 
-- **Supplementary Data 31.** Avoided flood-exposed population under baseline and future floodplain avoidance, at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD31_ROBUST_Avoided_Natl`)
+- **SD31.** Reduction in flood-exposed population relative to BAU under baseline and future floodplain avoidance, at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD31`)
 
-- **Supplementary Data 32.** Avoided flood-exposed population under baseline and future floodplain avoidance, at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD32_ROBUST_Avoided_City`)
+- **SD32.** Reduction in flood-exposed population relative to BAU under baseline and future floodplain avoidance, at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD32`)
 
-- **Supplementary Data 33.** Share of BAU flood exposure avoided under baseline floodplain avoidance, at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD33_F0_Avoided_BAU_Share_Natl`)
+- **SD33.** Share of 2050 BAU flood-exposed population avoided under baseline floodplain avoidance, at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD33`)
 
-- **Supplementary Data 34.** Share of BAU flood exposure avoided under baseline floodplain avoidance, at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD34_F0_Avoided_BAU_Share_City`)
+- **SD34.** Share of 2050 BAU flood-exposed population avoided under baseline floodplain avoidance, at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD34`)
 
-- **Supplementary Data 35.** Share of BAU flood exposure avoided under baseline and future floodplain avoidance, at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD35_ROBUST_Avoided_BAU_Share_N`)
+- **SD35.** Share of 2050 BAU flood-exposed population avoided under baseline and future floodplain avoidance, at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD35`)
 
-- **Supplementary Data 36.** Share of BAU flood exposure avoided under baseline and future floodplain avoidance, at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD36_ROBUST_Avoided_BAU_Share_C`)
+- **SD36.** Share of 2050 BAU flood-exposed population avoided under baseline and future floodplain avoidance, at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD36`)
 
-- **Supplementary Data 37.** Avoided exposure relative to the increase in flood exposure under baseline floodplain avoidance, at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD37_F0_Avoided_Inc_Share_Natl`)
+- **SD37.** Share of the increase in BAU flood-exposed population avoided under baseline floodplain avoidance, at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD37`)
 
-- **Supplementary Data 38.** Avoided exposure relative to the increase in flood exposure under baseline floodplain avoidance, at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD38_F0_Avoided_Inc_Share_City`)
+- **SD38.** Share of the increase in BAU flood-exposed population avoided under baseline floodplain avoidance, at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD38`)
 
-- **Supplementary Data 39.** Avoided exposure relative to the increase in flood exposure under baseline and future floodplain avoidance, at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD39_ROBUST_Avoided_Inc_Share_N`)
+- **SD39.** Share of the increase in BAU flood-exposed population avoided under baseline and future floodplain avoidance, at global, continental, income-group, and national scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD39`)
 
-- **Supplementary Data 40.** Avoided exposure relative to the increase in flood exposure under baseline and future floodplain avoidance, at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD40_ROBUST_Avoided_Inc_Share_C`)
+- **SD40.** Share of the increase in BAU flood-exposed population avoided under baseline and future floodplain avoidance, at city and city-size scales (`Tables/Supplementary_Data.xlsx`; sheet: `SD40`)
 
-- **Supplementary Data 41.** Share of urban population exposed to flooding in 2050 (`Tables/Supplementary_Data.xlsx`; sheet: `SD41_Exposure_2050_Share_City`)
+- **SD41.** Share of urban population exposed to flooding in 2050 (`Tables/Supplementary_Data.xlsx`; sheet: `SD41`)
 
-- **Supplementary Data 42.** Additional flood-exposed population avoided by extending baseline floodplain avoidance to future floodplains, at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD42_Additional_Avoided_Natl`)
+- **SD42.** Additional reduction in flood-exposed population from avoiding both baseline and future floodplains rather than baseline floodplains alone, at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD42`)
 
-- **Supplementary Data 43.** Additional flood-exposed population avoided by extending baseline floodplain avoidance to future floodplains, at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD43_Additional_Avoided_City`)
+- **SD43.** Additional reduction in flood-exposed population from avoiding both baseline and future floodplains rather than baseline floodplains alone, at city and city-size scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD43`)
 
-- **Supplementary Data 44.** City-scale urban resilience groups (`Tables/Supplementary_Data.xlsx`; sheet: `SD44_Resilience_Groups`)
+- **SD44.** City-scale urban resilience groups (`Tables/Supplementary_Data.xlsx`; sheet: `SD44`)
 
-- **Supplementary Data 45.** Accuracy assessment of the urban expansion simulation (`Tables/Supplementary_Data.xlsx`; sheet: `SD45_UrbanExp_Accuracy`)
+- **SD45.** Accuracy assessment of the urban expansion simulation (`Tables/Supplementary_Data.xlsx`; sheet: `SD45`)
 
-- **Supplementary Data 46.** Merging process for adjacent cities and urban agglomerations (`Tables/Supplementary_Data.xlsx`; sheet: `SD46_City_Merging`)
+- **SD46.** Merging process for adjacent cities and urban agglomerations (`Tables/Supplementary_Data.xlsx`; sheet: `SD46`)
 
-- **Supplementary Data 47.** Population newly exposed to future floodplains within the 2020 urban footprint, at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD47_ExistingUrban_NewFlood`)
+- **SD47.** Population newly exposed to future floodplains within the 2020 urban footprint, at global, continental, income-group, and national scales (persons) (`Tables/Supplementary_Data.xlsx`; sheet: `SD47`)
